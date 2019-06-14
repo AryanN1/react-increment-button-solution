@@ -1,1 +1,3 @@
-# react-increment-button-solution
+# Increment Button Challenge
+
+A React challenge
